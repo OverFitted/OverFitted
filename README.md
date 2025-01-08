@@ -1,5 +1,3 @@
-![Metrics](https://metrics.lecoq.io/OverFitted?template=classic&isocalendar=1&lines=1&repositories=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=true&isocalendar.duration=half-year&lines=true&lines.sections=base&lines.repositories.limit=2&lines.history.limit=1&repositories=false&repositories.pinned=2&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&config.timezone=Europe%2FMoscow)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1700&color=259789&center=true&vCenter=true&width=845&lines=AI%2FML+engineer;ITMO+Student;Just+an+OverFitted+model+after+all)](https://git.io/typing-svg)
 
 <!--
